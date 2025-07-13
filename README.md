@@ -42,6 +42,13 @@ source : moi
 
 ## links
 https://www.kaggle.com/code/pavansanagapati/a-simple-cnn-model-beginner-guide
+
 https://datascientest.com/convolutional-neural-network
+
 https://github.com/Bengal1/Simple-CNN-Guide
+
 https://stackoverflow.com/questions/78719585/keras-model-input-shapes-are-incompatible-with-the-layer-despite-being-a-compat
+
+https://fr.mathworks.com/discovery/convolutional-neural-network.html
+
+https://www.ibm.com/fr-fr/think/topics/convolutional-neural-networks
