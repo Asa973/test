@@ -31,8 +31,14 @@ Epochs : 1 epoch = 1 passe sur tout l'ensemble d'entraînement
 
 Data augmentation : techniques pour enrichir les données disponibles (flip, zoom, rotation, etc.)
 
-![Architecture CNN](images/explication.jpg)
+![CNN](images/explication1.jpg)
+source : https://medium.com/@myringoleMLGOD/simple-convolutional-neural-network-cnn-for-dummies-in-pytorch-a-step-by-step-guide-6f4109f6df80
 
+![CNN](images/Figure_1.png)
+source : moi
+
+![CNN](images/Figure2.png)
+source : moi
 
 ## links
 https://www.kaggle.com/code/pavansanagapati/a-simple-cnn-model-beginner-guide
