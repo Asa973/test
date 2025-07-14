@@ -6,7 +6,7 @@ import seaborn as sns
 exams = pd.read_csv("patient-pathway/examinations.csv", parse_dates=["exam_date"])
 
 # Affichage pour vérification
-print(exams.head())
+#print(exams.head())
 
 # Calcul du nombre d'examens par patiente
 exams_per_patient = exams.groupby("id_patient").size().reset_index(name="num_exams")
