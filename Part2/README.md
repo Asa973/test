@@ -16,8 +16,8 @@ Médiane		4 examens
 Min / Max	1 à 5 examens
 Écart-type	1.29
 
-TASK 1
-![CNN](images/task1.png)
+
+![task](images/task1.png)
 
 ##Task2
 
@@ -36,6 +36,8 @@ anomaly_identified        1394
 extrauterine_pregnancy    1020
 suboptimal_images          877
 
-![CNN](images/task_2_figure1.png)
+![task](images/task_2_figure1.png)
+
+![task](images/task3.png)
 ## links
 
