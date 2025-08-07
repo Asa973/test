@@ -1,1 +1,1 @@
-![CNN](images/schema.excalidraw.png.png)
+![CNN](images/schema.excalidraw.png)
